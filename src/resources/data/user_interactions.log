@@ -1,0 +1,75 @@
+
+2024-11-13T21:45:49.844 - Logger Started.
+2024-11-13T21:45:49.973 - Program start.
+
+2024-11-13T21:46:55.512 - Logger Started.
+2024-11-13T21:46:55.645 - Program start.
+2024-11-13T21:46:55.648 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:46:55.663 - Library menu displayed.
+2024-11-13T21:46:58.907 - User viewed all books in library.
+2024-11-13T21:47:06.266 - User sorted books by title.
+2024-11-13T21:47:07.274 - User viewed all books in library.
+2024-11-13T21:47:20.177 - User sorted books by author.
+2024-11-13T21:47:23.123 - User viewed all books in library.
+
+2024-11-13T21:48:26.699 - Logger Started.
+2024-11-13T21:48:26.823 - Program start.
+2024-11-13T21:48:26.826 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:48:26.840 - Library menu displayed.
+2024-11-13T21:48:29.837 - User viewed all books in library.
+
+2024-11-13T21:55:07.256 - Logger Started.
+2024-11-13T21:55:07.507 - Program start.
+2024-11-13T21:55:07.512 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:55:07.551 - Library menu displayed.
+2024-11-13T21:55:09.051 - User viewed all books in library.
+
+2024-11-13T21:55:28.392 - Logger Started.
+2024-11-13T21:55:28.517 - Program start.
+2024-11-13T21:55:28.518 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:55:28.531 - Library menu displayed.
+2024-11-13T21:55:30.333 - User viewed all books in library.
+2024-11-13T21:55:46.460 - User sorted books by publication year.
+2024-11-13T21:55:48.633 - User viewed all books in library.
+2024-11-13T21:55:54.422 - User exited program.
+2024-11-13T21:55:54.473 - Library saved successfully to src/resources/data/library.ser
+
+2024-11-13T21:55:57.169 - Logger Started.
+2024-11-13T21:55:57.298 - Program start.
+2024-11-13T21:55:57.351 - Library loaded successfully from /resources/data/library.ser
+2024-11-13T21:55:57.395 - Library menu displayed.
+2024-11-13T21:55:58.515 - User viewed all books in library.
+2024-11-13T21:56:01.936 - User sorted books by title.
+2024-11-13T21:56:03.275 - User viewed all books in library.
+2024-11-13T21:56:10.953 - User sorted books by author.
+2024-11-13T21:56:11.727 - User viewed all books in library.
+2024-11-13T21:56:30.062 - User searched for books by keyword: Ray
+2024-11-13T21:56:30.064 - Books found: [The Picture of Dorian Gray by Oscar Wilde (1890), Fahrenheit 451 by Ray Bradbury (1953)]
+2024-11-13T21:56:43.472 - User exited program.
+2024-11-13T21:56:43.481 - Library saved successfully to src/resources/data/library.ser
+
+2024-11-13T21:58:36.146 - Logger Started.
+2024-11-13T21:58:36.269 - Program start.
+2024-11-13T21:58:36.301 - Library loaded successfully from /resources/data/library.ser
+2024-11-13T21:58:36.317 - Library menu displayed.
+2024-11-13T21:58:45.390 - User sorted books by title.
+2024-11-13T21:58:46.058 - User viewed all books in library.
+2024-11-13T21:58:49.843 - User searched for books by keyword: the
+2024-11-13T21:58:49.850 - Books found: [The Alchemist by Paulo Coelho (1988), The Bell Jar by Sylvia Plath (1963), The Brothers Karamazov by Fyodor Dostoevsky (1880), The Catcher in the Rye by J.D. Salinger (1951), The Color Purple by Alice Walker (1982), The Diary of a Young Girl by Anne Frank (1947), The Fault in Our Stars by John Green (2012), The Grapes of Wrath by John Steinbeck (1939), The Great Alone by Kristin Hannah (2018), The Great Gatsby by F. Scott Fitzgerald (1925), The Guest List by Lucy Foley (2020), The Handmaid's Tale by Margaret Atwood (1985), The Hitchhiker's Guide to the Galaxy by Douglas Adams (1979), The Hobbit by J.R.R. Tolkien (1937), The Hunger Games by Suzanne Collins (2008), The Immortal Life of Henrietta Lacks by Rebecca Skloot (2010), The Invisible Man by H.G. Wells (1897), The Kite Runner by Khaled Hosseini (2003), The Lord of the Rings by J.R.R. Tolkien (1954), The Lovely Bones by Alice Sebold (2002), The Martian by Andy Weir (2011), The Midnight Library by Matt Haig (2020), The Night Circus by Erin Morgenstern (2011), The Odyssey by Homer (-800), The Old Man and the Sea by Ernest Hemingway (1952), The Perks of Being a Wallflower by Stephen Chbosky (1999), The Picture of Dorian Gray by Oscar Wilde (1890), The Road by Cormac McCarthy (2006), The Road Less Traveled by M. Scott Peck (1978), The Secret Garden by Frances Hodgson Burnett (1911), The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid (2017), The Silent Patient by Alex Michaelides (2019), The Sun Also Rises by Ernest Hemingway (1926), The Time Traveler's Wife by Audrey Niffenegger (2003), The Vanishing Half by Brit Bennett (2020), The Woman in the Window by A.J. Finn (2018), Where the Crawdads Sing by Delia Owens (2018), Wuthering Heights by Emily Brontë (1847)]
+2024-11-13T21:59:04.137 - User searched for books by keyword: woman
+2024-11-13T21:59:04.138 - Books found: [The Woman in the Window by A.J. Finn (2018)]
+2024-11-13T21:59:07.275 - User viewed all books in library.
+2024-11-13T21:59:19.465 - User searched for books by keyword: great
+2024-11-13T21:59:19.468 - Books found: [The Great Alone by Kristin Hannah (2018), The Great Gatsby by F. Scott Fitzgerald (1925)]
+
+2024-11-13T21:59:43.187 - Logger Started.
+2024-11-13T21:59:43.321 - Program start.
+2024-11-13T21:59:43.357 - Library loaded successfully from /resources/data/library.ser
+2024-11-13T21:59:43.375 - Library menu displayed.
+2024-11-13T21:59:44.779 - User viewed all books in library.
+2024-11-13T21:59:49.598 - User sorted books by title.
+2024-11-13T21:59:50.482 - User viewed all books in library.
+2024-11-13T22:00:00.420 - User searched for books by keyword: great
+2024-11-13T22:00:00.421 - Books found: [The Great Alone by Kristin Hannah (2018), The Great Gatsby by F. Scott Fitzgerald (1925)]
+2024-11-13T22:00:03.482 - User exited program.
+2024-11-13T22:00:03.502 - Library saved successfully to src/resources/data/library.ser
