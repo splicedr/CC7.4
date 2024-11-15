@@ -1,0 +1,49 @@
+
+2024-11-13T21:45:49.844 - Logger Started.
+2024-11-13T21:45:49.973 - Program start.
+
+2024-11-13T21:46:55.512 - Logger Started.
+2024-11-13T21:46:55.645 - Program start.
+2024-11-13T21:46:55.648 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:46:55.663 - Library menu displayed.
+2024-11-13T21:46:58.907 - User viewed all books in library.
+2024-11-13T21:47:06.266 - User sorted books by title.
+2024-11-13T21:47:07.274 - User viewed all books in library.
+2024-11-13T21:47:20.177 - User sorted books by author.
+2024-11-13T21:47:23.123 - User viewed all books in library.
+
+2024-11-13T21:48:26.699 - Logger Started.
+2024-11-13T21:48:26.823 - Program start.
+2024-11-13T21:48:26.826 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:48:26.840 - Library menu displayed.
+2024-11-13T21:48:29.837 - User viewed all books in library.
+
+2024-11-13T21:55:07.256 - Logger Started.
+2024-11-13T21:55:07.507 - Program start.
+2024-11-13T21:55:07.512 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:55:07.551 - Library menu displayed.
+2024-11-13T21:55:09.051 - User viewed all books in library.
+
+2024-11-13T21:55:28.392 - Logger Started.
+2024-11-13T21:55:28.517 - Program start.
+2024-11-13T21:55:28.518 - No saved library found. Loaded default books from /resources/data/books.txt
+2024-11-13T21:55:28.531 - Library menu displayed.
+2024-11-13T21:55:30.333 - User viewed all books in library.
+2024-11-13T21:55:46.460 - User sorted books by publication year.
+2024-11-13T21:55:48.633 - User viewed all books in library.
+2024-11-13T21:55:54.422 - User exited program.
+2024-11-13T21:55:54.473 - Library saved successfully to src/resources/data/library.ser
+
+2024-11-13T21:55:57.169 - Logger Started.
+2024-11-13T21:55:57.298 - Program start.
+2024-11-13T21:55:57.351 - Library loaded successfully from /resources/data/library.ser
+2024-11-13T21:55:57.395 - Library menu displayed.
+2024-11-13T21:55:58.515 - User viewed all books in library.
+2024-11-13T21:56:01.936 - User sorted books by title.
+2024-11-13T21:56:03.275 - User viewed all books in library.
+2024-11-13T21:56:10.953 - User sorted books by author.
+2024-11-13T21:56:11.727 - User viewed all books in library.
+2024-11-13T21:56:30.062 - User searched for books by keyword: Ray
+2024-11-13T21:56:30.064 - Books found: [The Picture of Dorian Gray by Oscar Wilde (1890), Fahrenheit 451 by Ray Bradbury (1953)]
+2024-11-13T21:56:43.472 - User exited program.
+2024-11-13T21:56:43.481 - Library saved successfully to src/resources/data/library.ser
